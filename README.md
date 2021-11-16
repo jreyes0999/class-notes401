@@ -9,3 +9,4 @@
 
 ## Table of Contents
 ### Code 401 Notes
+* [Big O Notation](https://defluxit.github.io/class-notes401/1)
