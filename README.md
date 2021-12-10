@@ -10,3 +10,6 @@
 ## Table of Contents
 ### Code 401 Notes
 * [Big O Notation](https://defluxit.github.io/class-notes401/1)
+* [TDD with Python](https://defluxit.github.io/class-notes401/2)
+* [FileIO & Exceptions](https://defluxit.github.io/class-notes401/3)
+* [Classes and Objects](https://defluxit.github.io/class-notes401/4)
